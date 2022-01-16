@@ -14,6 +14,7 @@
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Oracle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">  
   </div>
   
    ##
